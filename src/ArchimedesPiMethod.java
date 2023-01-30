@@ -1,4 +1,12 @@
 import java.util.Scanner;
+/**
+ *
+ * @author Trevor Hartman
+ * @author Michael Thoreson
+ *
+ * @since Version 1.0
+ *
+ */
 
 public class ArchimedesPiMethod {
     public static void main(String[] args) {
